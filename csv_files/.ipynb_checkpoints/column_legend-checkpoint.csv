@@ -1,0 +1,23 @@
+short_name,original_question
+timestamp,Timestamp
+year,What year/semester are you currently in?
+program,What program are you enrolled in?
+beh_daily_use,"I use our current digital learning tools (LMS, class groups, shared drives, etc.) almost every day."
+beh_time_spent,"I spend a meaningful amount of time actively using these tools, not just opening and closing them."
+beh_attendance,"I regularly attend classes and actively participate (asking questions, contributing)."
+hours_per_week_raw,How many hours per week do you spend using digital tools specifically for studying (not social media)
+pu_useful,I find our current digital learning tools genuinely useful for my studies.
+pu_efficiency,Using these tools makes my coursework easier to manage.
+il_enjoyment,I enjoy using digital tools as part of my learning (not just tolerating them)
+il_curiosity,I feel curious or interested when exploring new features of a learning tool.
+em_connection,"I feel a sense of connection to my instructors/classmates through these tools (e.g., discussion features, group chats)."
+biu_intention,I plan to keep using digital learning tools throughout this case study.
+biu_voluntary,I would use a new digital study tool even if it wasn't required by a class.
+srl_strategy,"Before I start studying, I decide on a strategy or plan for how to approach the material."
+srl_organize,I organize my time and materials in advance to prepare for exams or assignments.
+srl_review,"I regularly review material I've already learned, not just new material."
+srl_persist,"When I don't understand something, I try different strategies before giving up."
+srl_evaluate,I can tell when I've actually learned something versus just memorized it temporarily.
+open_frustration,What frustrates you most about the digital tools you currently use for learning?
+open_feature_request,"If you could add ONE feature to how you study or review material, what would it be?"
+open_srs_usage,"Do you currently use any spaced repetition or flashcard tools (e.g., Anki, Quizlet)? If yes, briefly describe your experience."

@@ -1,0 +1,17 @@
+timestamp,year,program,beh_daily_use ,beh_time_spent,beh_attendance,hours_per_week_raw,pu_useful,pu_efficiency,il_enjoyment,il_curiosity,em_connection,biu_intention,biu_voluntary,srl_strategy,srl_organize,srl_review,srl_persist,srl_evaluate,open_frustration,open_feature_request,open_srs_usage,hours_per_week_num,hours_bucket
+9/6/2026 14:45,3rd,BSc Physics,3,3,2,12-Oct,3,3,3,4,1,4,3,4,4,4,3,4,Subscriptions,A feature to show what one should already know beforehand before starting a topic.,Decent,11.0,11-20
+9/6/2026 15:00,3rd,BIT,4,4,2,20hrs,5,4,4,3,3,4,4,4,5,4,4,4,to pay ,QNA,No,20.0,20+
+9/6/2026 15:05,3rd,BIT,3,4,4,5,4,4,4,4,4,4,3,3,4,4,4,4,Giving short answers ,Organizing my research ,It helps in revising my study ,5.0,6-10
+9/6/2026 15:21,3rd,BIT,3,3,3,48 hrs,2,4,3,3,2,3,4,3,5,4,4,3,There unnecessary extra answers ,Easier prompt to get enough required answer,No,48.0,20+
+9/6/2026 16:22,3rd,BIT,3,3,1,12-Oct,2,3,2,4,4,2,2,2,3,2,2,2,Distraction,Idk,No,11.0,11-20
+9/6/2026 18:09,3rd,BIT,4,4,1,10+,5,4,4,4,3,4,2,3,4,3,4,4,Math bujau na sakdaina majale,Proper mathematical solution dine,No,10.0,11-20
+9/6/2026 19:21,3rd,BSc Physics,3,1,2,3 hrs ,2,2,5,4,2,3,5,4,4,2,4,5,Contradicting and inconsistant answers ,I wold kill for smthing that will force me to study 💯 facts ,No but i plan to,3.0,0-5
+9/7/2026 16:04,3rd,BSc CSIT,3,1,1,42 hours ,3,1,1,1,3,1,1,3,1,3,1,3,limited token ,Hypothetical Study Feature,,42.0,20+
+9/7/2026 16:45,3rd,BIT,3,3,2,8 10,5,4,4,5,3,4,5,4,4,4,3,5,Token limit ,Sharing seamlessly ,Nah,9.0,6-10
+9/7/2026 17:58,3rd,BSc CSIT,5,5,3,Not but probably more than 10hrs,5,5,4,5,4,5,5,5,5,3,5,4,"Wasting time fixing clunky configurations, environment errors instead of coding, outdated documentation & heavy tools that slow down my laptop.","1.AI assistant that reads dense outdated PDFs and gives short answers 2. Free Offline flashcards 3. Interactive Quizzes 4. Easy simple, attractive UI  5. Notification to users if they aren't active for more than 10 hours or if they haven't completed their task/ study session of per day/week."," Yes, I am using the paid version of HamroCsit. It is quite good but takes long time to update new questions & answers. They haven't made an IOS version which I've been waiting for more than 2.5years. Similarly, I also have tried using other tools but found confusing interfaces, harsh colors, unnecessary settings or complicated features. Some apps are expensive and require dollar cards which is quite expensive. That is hard for Campus students.",10.0,11-20
+9/7/2026 18:34,3rd,BIT,5,5,5,20 hours,5,4,5,5,5,5,5,5,5,5,5,3,Not able to ask doubt,Asking doubt feature,No,20.0,20+
+9/7/2026 22:22,3rd,BIT,2,2,2,3-Feb,3,2,3,2,2,2,2,2,2,2,2,2,expensive,all should be free and easily accessible,yes,2.5,0-5
+9/7/2026 22:48,3rd,BIT,3,3,3,7,3,3,3,4,4,5,5,3,5,3,5,4,The biggest frustration is that digital learning often feels boring and passive. I don’t feel actively engaged while learning.,Interactive learning activities that make studying more engaging and less passive.,No.,7.0,6-10
+9/8/2026 7:18,3rd,BIT,4,4,4,4-5 per day ,4,3,3,4,3,3,4,4,4,4,4,3,Not at all,Not at all,No,,
+9/9/2026 12:54,3rd,BIT,3,3,1,5 hours,3,4,4,4,4,4,4,4,4,3,3,4,Ads,Chatbots,Yes ,5.0,6-10
+9/15/2026 8:44,3rd,BIT,3,4,1,16,4,3,4,5,2,5,5,4,4,4,3,5,"Subscription, ","Tell me what to study and what type of review is needed, like just a review or a practice test",Yes,16.0,11-20
